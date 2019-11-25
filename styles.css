@@ -28,6 +28,7 @@ main {
   background-color: rosybrown;
   font-family: "Encode Sans Expanded", Helvrtica, sans-serif;
   color: whitesmoke;
+  padding: 1em;
 }
 .grid-container {
   display: grid;

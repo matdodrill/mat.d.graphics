@@ -4,7 +4,7 @@ html {
 h1 {
   color: dimgray;
   font-family: "Encode Sans Expanded", Helvetica, sans-serif;
-  margin-left: 1em;
+  margin: 1em;
   grid-column: 2/4;
   grid-row: 1/2;
 }
@@ -12,10 +12,12 @@ img {
   height: 2.5em;
   grid-column: 1/2;
   grid-row: 1/2;
+  margin: 1em;
 }
 nav {
   grid-column: 1/2;
   grid-row: 2/3;
+  margin: 1em;
 }
 ul, li {
   list-style: none;
@@ -41,3 +43,7 @@ main {
   font-family: "Encode Sans Expanded", Helvetica, sans-serif;
   text-decoration: none;
 }
+.main-box:
+  width: 6em
+  height: 10em;
+  background-color: rosybrown;

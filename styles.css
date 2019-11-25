@@ -22,6 +22,10 @@ nav {
 ul, li {
   list-style: none;
 }
+main {
+  grid-column: 2/5;
+  grid-row: 2/6;
+}
 .grid-container {
   display: grid;
   grid-gap: 0.5em;
@@ -40,8 +44,6 @@ ul, li {
   text-decoration: none;
 }
 .main-box:
-  width: 6em
+  width: 6em;
   height: 10em;
   background-color: rosybrown;
-  grid-column: 2/5;
-  grid-row: 2/6;

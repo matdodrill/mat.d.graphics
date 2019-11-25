@@ -43,7 +43,8 @@ main {
   font-family: "Encode Sans Expanded", Helvetica, sans-serif;
   text-decoration: none;
 }
-.main-box:
+.main-box {
   width: 6em;
   height: 10em;
   background-color: rosybrown;
+}

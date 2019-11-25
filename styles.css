@@ -6,6 +6,9 @@ h1 {
   font-family: "Encode Sans Expanded", Helvetica, sans-serif;
 }
 img {
-  height: 2 em;
+  height: 1 em;
   float: left;
+}
+nav {
+  clear: both;
 }

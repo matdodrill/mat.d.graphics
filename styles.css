@@ -16,6 +16,9 @@ nav {
 ul, li {
   list-style: none;
 }
+main {
+  float: right;
+}
 .nav-link {
   color: dimgray;
   font-family: "Encode Sans Expanded", Helvetica, sans-serif;

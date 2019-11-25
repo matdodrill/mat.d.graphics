@@ -12,12 +12,12 @@ img {
   height: 2.5em;
   grid-column: 1/2;
   grid-row: 1/2;
-  margin: 1em;
+  margin: 2em;
 }
 nav {
   grid-column: 1/2;
   grid-row: 2/3;
-  margin: 1em;
+  margin: 2em;
 }
 ul, li {
   list-style: none;
@@ -28,7 +28,8 @@ main {
   background-color: rosybrown;
   font-family: "Encode Sans Expanded", Helvrtica, sans-serif;
   color: whitesmoke;
-  padding: 1em;
+  padding: 2em;
+  margin: 2em;
 }
 .grid-container {
   display: grid;

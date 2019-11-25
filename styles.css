@@ -12,13 +12,16 @@ img {
 }
 nav {
   clear: left;
+  list-style: none;
 }
 .nav-link {
   color: dimgray;
   font-family: "Encode Sans Expanded", Helvetica, sans-serif;
+  text-decoration: none;
 }
 .nav-current {
   color: whitesmoke;
   background-color: orangered;
   font-family: "Encode Sans Expanded", Helvetica, sans-serif;
+  text-decoration: none;
 }

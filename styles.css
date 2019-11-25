@@ -17,7 +17,7 @@ ul, li {
   list-style: none;
 }
 main {
-  float: right;
+  clear: left;
 }
 .nav-link {
   color: dimgray;

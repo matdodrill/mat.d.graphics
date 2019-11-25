@@ -4,6 +4,7 @@ html {
 h1 {
   color: dimgray;
   font-family: "Encode Sans Expanded", Helvetica, sans-serif;
+  padding-left: 1em;
 }
 img {
   height: 2.5em;

@@ -12,6 +12,8 @@ img {
 }
 nav {
   clear: left;
+}
+ul {
   list-style: none;
 }
 .nav-link {

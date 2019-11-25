@@ -13,3 +13,12 @@ img {
 nav {
   clear: left;
 }
+.nav-link {
+  color: dimgray;
+  font-family: "Encode Sans Expanded", Helvetica, sans-serif;
+}
+.nav-current {
+  color: whitesmoke;
+  background-color: orangered;
+  font-family: "Encode Sans Expanded", Helvetica, sans-serif;
+}

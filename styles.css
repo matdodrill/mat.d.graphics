@@ -23,7 +23,7 @@ ul, li {
   list-style: none;
 }
 .resume-list {
-  list-style: bullets;
+  list-style-type: circle;
 }
 main {
   grid-column: 2/5;

@@ -44,10 +44,12 @@ main {
   color: dimgray;
   font-family: "Encode Sans Expanded", Helvetica, sans-serif;
   text-decoration: none;
+  margin: 0.5em;
 }
 .nav-current {
   color: whitesmoke;
   background-color: orangered;
   font-family: "Encode Sans Expanded", Helvetica, sans-serif;
   text-decoration: none;
+  margin: 0.5em;
 }

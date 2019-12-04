@@ -22,6 +22,10 @@ nav {
 ul, li {
   list-style: none;
 }
+.me {
+  height: 4em;
+  float: left;
+}
 .resume-list {
   list-style-type: circle;
 }

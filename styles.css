@@ -8,7 +8,7 @@ h1 {
   grid-column: 2/4;
   grid-row: 1/2;
 }
-img {
+.logo {
   height: 2.5em;
   grid-column: 1/2;
   grid-row: 1/2;
@@ -24,7 +24,7 @@ ul, li {
 }
 .me {
   height: 4em;
-  float: left;
+  float: right;
 }
 .resume-list {
   list-style-type: circle;

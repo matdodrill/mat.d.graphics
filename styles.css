@@ -4,7 +4,6 @@ html {
 h1 {
   color: dimgray;
   font-family: "Encode Sans Expanded", Helvetica, sans-serif;
-  margin: 2em;
   grid-column: 2/4;
   grid-row: 1/2;
 }
@@ -17,7 +16,6 @@ h1 {
   height: 3em;
   grid-column: 1/2;
   grid-row: 1/2;
-  margin: 2em;
 }
 .main-content {
   grid-column: 1/4;

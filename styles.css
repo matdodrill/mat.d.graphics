@@ -4,7 +4,7 @@ html {
 h1 {
   color: dimgray;
   font-family: "Encode Sans Expanded", Helvetica, sans-serif;
-  margin: 1em;
+  margin: 2em;
   grid-column: 2/4;
   grid-row: 1/2;
 }

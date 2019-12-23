@@ -8,6 +8,11 @@ h1 {
   grid-column: 2/4;
   grid-row: 1/2;
 }
+.about-me-grid {
+  display: grid;
+  grid-column-template: auto auto auto auto;
+  grid-row-template: auto auto auto auto auto auto;
+}
 .logo {
   height: 3em;
   grid-column: 1/2;
@@ -15,7 +20,8 @@ h1 {
   margin: 2em;
 }
 .main-content {
-  clear: both;
+  grid-column: 1/4;
+  grid-row: 2/6;
 }
 nav {
   grid-column: 1/2;
@@ -27,7 +33,8 @@ ul, li {
 }
 .me {
   height: 5em;
-  float: right;
+  grid-column: 2/4;
+  grid-row: 1/2;
 }
 .resume-list {
   list-style-type: circle;

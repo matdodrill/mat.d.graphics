@@ -33,7 +33,7 @@ ul, li {
 }
 .me {
   height: 5em;
-  grid-column: 2/4;
+  grid-column: 1/2;
   grid-row: 1/2;
 }
 .resume-list {

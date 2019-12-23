@@ -6,7 +6,7 @@ h1 {
   font-family: "Encode Sans Expanded", Helvetica, sans-serif;
   grid-column: 2/4;
   grid-row: 1/2;
-  clear: left;
+  clear: both;
 }
 .about-me-grid {
   display: grid;
